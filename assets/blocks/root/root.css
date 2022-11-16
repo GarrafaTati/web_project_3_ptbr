@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #2a2c2f;
+  color: #fff;
+  font-family: "InterRegular", "Arial", "Helvetica", sans-serif;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
