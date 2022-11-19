@@ -1,0 +1,8 @@
+.cover__content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 10;
+  text-align: center;
+  transform: translate(-50%, -50%);
+}
