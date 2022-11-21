@@ -12,3 +12,9 @@
 .place__paragraph p:not(:last-child) {
   margin-bottom: 1.6rem;
 }
+
+@media screen and (max-width: 767px) {
+  .place__paragraph {
+    margin: 0 16px;
+  }
+}

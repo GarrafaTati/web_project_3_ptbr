@@ -7,3 +7,9 @@
 .cover:hover .cover__overlay {
   background-color: rgba(0, 0, 0, 0.8);
 }
+
+@media screen and (max-width: 767px) {
+  .cover {
+    height: 254px;
+  }
+}

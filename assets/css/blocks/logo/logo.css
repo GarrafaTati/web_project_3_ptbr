@@ -2,5 +2,12 @@
   width: 270px;
   height: 70px;
   margin: 0 auto;
-  padding-top: 34px;
+  margin-top: 34px;
+}
+
+@media screen and (max-width: 767px) {
+  .logo {
+    width: 200px;
+    margin-top: 20px;
+  }
 }

@@ -13,3 +13,17 @@
 .place:last-child {
   margin-bottom: 0;
 }
+
+@media screen and (max-width: 767px) {
+  .place {
+    grid-template-columns: 100%;
+    grid-template-areas:
+      "title"
+      "website"
+      "image"
+      "paragraph"
+      "link";
+    grid-gap: 30px;
+    margin-bottom: 37px;
+  }
+}

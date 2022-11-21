@@ -3,3 +3,18 @@
   height: 460px;
   grid-area: image;
 }
+
+@media screen and (max-width: 959px) {
+  .place__image {
+    width: 340px;
+    height: 340px;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .place__image {
+    width: 320px;
+    height: 320px;
+  }
+}
