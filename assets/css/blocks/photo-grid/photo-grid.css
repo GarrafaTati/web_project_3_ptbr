@@ -1,14 +1,16 @@
 .photo-grid {
   max-width: 1184px;
-  margin-bottom: 92px;
-  display: flex;
-  flex-wrap: wrap;
+  margin: 0 auto 92px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
   gap: 16px;
+  padding: 20px;
 }
 
-@media screen and (max-width: 959px) {
+@media screen and (max-width: 1023px) {
   .photo-grid {
-    justify-content: center;
+    padding: 20px;
+    grid-template-columns: repeat(2, 1fr);
     margin-bottom: 88px;
   }
 }
