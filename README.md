@@ -8,6 +8,10 @@
 - CSS3
 - Metodologia BEM para as classes
 
+**Link**
+
+- [Link para Pages GitHub](https://garrafatati.github.io/web_project_3_ptbr/index.html)
+
 ---
 
 ### Visão geral
