@@ -6,6 +6,10 @@
   margin: 32px 0;
 }
 
+.cover__subtitle span {
+  display: block;
+}
+
 @media screen and (max-width: 544px) {
   .cover__subtitle {
     font-size: 14px;
