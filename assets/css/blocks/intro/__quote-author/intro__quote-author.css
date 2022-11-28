@@ -8,7 +8,7 @@
   text-align: right;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 544px) {
   .intro__quote-author {
     line-height: 1.25;
     margin-bottom: 18px;

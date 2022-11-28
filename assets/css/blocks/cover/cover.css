@@ -8,7 +8,7 @@
   background-color: rgba(0, 0, 0, 0.8);
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 544px) {
   .cover {
     height: 254px;
   }

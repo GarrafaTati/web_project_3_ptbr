@@ -15,26 +15,11 @@
   margin-bottom: 0;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 544px) {
   /*display block ou flex */
   .place {
-    grid-template-columns: 100%;
-    grid-template-areas:
-      "title"
-      "website"
-      "image"
-      "paragraph"
-      "link";
-    grid-gap: 30px;
+    display: flex;
+    flex-direction: column;
     margin-bottom: 37px;
   }
 }
-
-/*
- grid-template-areas:
-    "title website"
-    "image paragraph"
-    "link paragraph"
-    ". paragraph";
-
-*/

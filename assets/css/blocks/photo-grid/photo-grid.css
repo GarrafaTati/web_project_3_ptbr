@@ -7,16 +7,16 @@
   padding: 20px;
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1024px) {
   .photo-grid {
-    padding: 20px;
     grid-template-columns: repeat(2, 1fr);
     margin-bottom: 88px;
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 544px) {
   .photo-grid {
+    grid-template-columns: repeat(1, 1fr);
     margin-bottom: 62px;
   }
 }

@@ -2,7 +2,7 @@
   margin-top: 90px;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 544px) {
   .lead {
     margin-top: 50px;
   }
