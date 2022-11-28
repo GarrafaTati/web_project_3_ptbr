@@ -3,9 +3,10 @@
 ## De Pátria para Pátria by Tati Garrafa
 
 **Technologias**
--HTML5
--CSS3
--Metodologia BEM para as classes
+
+- HTML5
+- CSS3
+- Metodologia BEM para as classes
 
 ---
 
